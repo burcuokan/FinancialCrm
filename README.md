@@ -129,7 +129,8 @@ Bu proje, finansal verilerinizi daha düzenli ve verimli bir şekilde yönetmeni
 
 **Ayarlar**
 
-![FinancialCrm_5by0AAnA64](https://github.com/user-attachments/assets/2a1546a9-37b0-4e96-bfac-1139a244b823)
+![FinancialCrm_LJbiKmUkJy](https://github.com/user-attachments/assets/f3750588-e911-4ea5-ad7d-ac4bbc1d08ba)
+
 
 
 
