@@ -1,6 +1,6 @@
 # 🚀 **FinancialCrm**
 
-Bu proje, C# Eğitim Kampı final case projemdir. finansal verilerinizi daha düzenli ve verimli bir şekilde yönetmenize olanak tanıyan bir Windows Forms uygulamasıdır. C# programlama dili ve Entity Framework ile geliştirilmiş bu uygulama, kullanıcıların banka hesaplarını takip etmelerini, ödeme ve fatura işlemlerini yönetmelerini sağlar. Ayrıca, finansal durumunuzu analiz etmenize yardımcı olacak görsel grafikler ve anlık bilgiler sunar. 
+Bu proje, C# Eğitim Kampı final case projemdir. Finansal verilerinizi daha düzenli ve verimli bir şekilde yönetmenize olanak tanıyan bir Windows Forms uygulamasıdır. C# programlama dili ve Entity Framework ile geliştirilmiş bu uygulama, kullanıcıların banka hesaplarını takip etmelerini, ödeme ve fatura işlemlerini yönetmelerini sağlar. Ayrıca, finansal durumunuzu analiz etmenize yardımcı olacak görsel grafikler ve anlık bilgiler sunar. 
 
 👤 **Kullanıcı Girişi**
 ---
